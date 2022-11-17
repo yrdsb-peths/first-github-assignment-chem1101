@@ -30,3 +30,10 @@ public class Student
         return firstName + " " + lastName + " is in grade: " + gradeLevel;
     }
 }
+
+public void run()
+    {
+        Student chem = new Student("chem", "ugo", 11);
+        
+        System.out.println(chem);
+    }
