@@ -18,9 +18,9 @@ public class Student
     private String lastName;
     private int gradeLevel;
     
-    public Student(String fName, String lName, int grade)
+    public Student(String 2Name, String lName, int grade)
     {
-        firstName = fName;
+        firstName = 2Name;
         lastName = lName;
         gradeLevel = grade;
     }
